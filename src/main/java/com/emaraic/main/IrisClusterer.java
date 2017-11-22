@@ -1,4 +1,4 @@
-package com.emaraic.somiris;
+package com.emaraic.main;
 
 import com.emaraic.models.Iris;
 import com.emaraic.utils.DatasetReader;
