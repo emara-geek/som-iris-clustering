@@ -1,6 +1,6 @@
 # Iris dataset clustering using Self-Organizing Maps
 
-In this repository, I attempt to build a self-organizing map that clusters iris flowers dataset into classes, such that similar classes are grouped together. 
+In this repository, I attempt to build a self-organizing map that clusters iris flowers dataset into classes, such that similar classes are grouped together. This implementation is built on Kohonen4j https://github.com/dashaub/kohonen4j. 
 
 Output when using 2X2 Grid with 10000 epochs,
 ```
